@@ -1,4 +1,4 @@
 baseURL = "https://www.healthy-tips.healthcare/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Health and Nutrition Tips"
 theme = "ananke"
