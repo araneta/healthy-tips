@@ -7,3 +7,17 @@ description: some description
 ---
 
 lorem ipsum dolor sit
+<div class="row">
+	<div class="col-md-6">
+		telo
+	</div>
+	<div class="col-md-6">
+		bongke
+	</div>
+</div>
+ <h1>
+Welcome
+</h1>
+<p>
+	test html content
+	</p>

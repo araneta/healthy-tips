@@ -11,6 +11,9 @@ summaryLength = 50
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [permalinks]
   posts = "/:year/:month/:title/"
   page = "/:slug/"
@@ -32,10 +35,10 @@ summaryLength = 50
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Araneta"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "Tips to stay healthy everyday"
 
   # Show header (default: true)
   #header_visible = true
@@ -71,7 +74,7 @@ summaryLength = 50
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "Everyday tips to stay healthy"
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
