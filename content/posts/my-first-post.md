@@ -2,7 +2,7 @@
 title: "7 Best Teas for Losing Weight and Protect Your Body"
 date: 2021-02-21T12:37:52+07:00
 draft: false
-featured_image: '/img/green-tea.jpg'
+featured_image: '/img/green-tea.webp'
 description: some description
 url: /teas/best-weight-loss-tea/
 ---
@@ -13,7 +13,7 @@ url: /teas/best-weight-loss-tea/
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/green-tea.jpg" />
+		<img src="/img/green-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>1. Green Tea</h2>
@@ -33,7 +33,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/oolong-tea.jpg" />
+		<img src="/img/oolong-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>2. Oolong Tea</h2>
@@ -48,7 +48,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/black-tea.jpg" />
+		<img src="/img/black-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>3. Black Tea</h2>
@@ -60,7 +60,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/mint-tea.jpg" />
+		<img src="/img/mint-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>4. Mint Tea</h2>
@@ -76,7 +76,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/rooibos-tea.jpg" />
+		<img src="/img/rooibos-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>5. Rooibos Tea</h2>
@@ -87,7 +87,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/white-tea.jpg" />
+		<img src="/img/white-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>6. White Tea</h2>
@@ -99,7 +99,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/puerh-tea.jpg" />
+		<img src="/img/puerh-tea.webp" />
 	</div>
 	<div class="col-md-6">		
 		<h2>7. Pu-erh tea</h2>
