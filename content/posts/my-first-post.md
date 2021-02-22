@@ -15,11 +15,9 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/green-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>1</h3>
-		<h2>Green Tea</h2>
-		<p>
-		The master of weight-loss brews is green tea—it's filled with antioxidants called catechins, 
+	<div class="col-md-6">		
+		<h2>1. Green Tea</h2>
+		<p>The master of weight-loss brews is green tea—it's filled with antioxidants called catechins, 
 		including a substance called epigallocatechin gallate (EGCG), 
 		which is believed to increase metabolism and help burn fat. 
 		"Researchers have found that green tea extract causes changes in the expression of fat metabolism genes, 
@@ -29,7 +27,7 @@ url: /teas/best-weight-loss-tea/
 		decrease in belly fat, losing an average of 1.9 cm in waist circumference 
 		and 2.6 pounds of body weight, and another <a href="https://www.nature.com/articles/ijo2009135?" target="_blank">large review of studies</a>
 		 concluded that green tea’s mix of
-		 EGCG and caffeine has a positive effect on weight loss and weight management.
+		 EGCG and caffeine has a positive effect on weight loss and weight management.</p>
 	</div>
 </div>
 <hr />
@@ -37,9 +35,8 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/oolong-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>2</h3>
-		<h2>Oolong Tea</h2>
+	<div class="col-md-6">		
+		<h2>2. Oolong Tea</h2>
 		Though green tea has long been thought of as the go-to variety for weight-loss, some researchers
 		 believe that oolong–a Chinese tea that falls somewhere between green and black—may be 
 		 even more powerful. "Oolong tea promotes thermogenesis (so the body produces heat from energy, 
@@ -53,9 +50,8 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/black-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>3</h3>
-		<h2>Black Tea</h2>
+	<div class="col-md-6">		
+		<h2>3. Black Tea</h2>
 		Black tea is actually made from the same plant as green tea—the difference is that the leaves are
 		 exposed to the air to trigger fermentation. <a href="https://www.ncbi.nlm.nih.gov/pubmed/24889137" target="_blank">One study </a>
 		 found that over three months, those who drank three cups of black tea per day had less weight gain and reduced waist circumference compared with those who drank a caffeinated beverage that was devoid of the flavonoids in tea. Try any tasty black variety, such as English breakfast or Earl Grey.
@@ -66,20 +62,24 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/mint-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>4</h3>
-		<h2>Mint Tea</h2>
+	<div class="col-md-6">		
+		<h2>4. Mint Tea</h2>
 		Though some people swear sipping a cup of mint tea can stave off food cravings, there is little evidence behind the claim. One thing we know for sure, though? If you’re jonesing for a minty sip, a cup of unsweetened peppermint tea has far fewer calories than a sugary peppermint mocha.
 	</div>
 </div>
+<hr />
+<div class="card">
+	<div class="card-body">
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+	</div>	
+</div>	
 <hr />
 <div class="row">
 	<div class="col-md-6">
 		<img src="/img/rooibos-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>5</h3>
-		<h2>Rooibos Tea</h2>
+	<div class="col-md-6">		
+		<h2>5. Rooibos Tea</h2>
 		Rooibos is an herb grown in South Africa that can be brewed into a delicious, caffeine-free cup of tea. 
 		Animal studies have suggested that rooibos tea may help with fat burning, though more research is needed to confirm the effect on humans. Either way, it makes for a colorful and tasty addition to your tea caddy.
 	</div>
@@ -89,9 +89,8 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/white-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>6</h3>
-		<h2>White Tea</h2>
+	<div class="col-md-6">		
+		<h2>6. White Tea</h2>
 		White tea is one of the least-processed varieties—the leaves of the tea plant are picked 
 		before they're fully opened and then quickly dried, preventing them from oxidizing. This process 
 		gives the tea an exceptionally delicate flavor that is still packed with <A href="https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/1743-7075-6-20" target="_blank">fat-busting polyphenols</a>. "White tea is rich in antioxidants, boosts metabolism and helps to breakdown fat cells," says Dr. Axe.
@@ -102,12 +101,17 @@ url: /teas/best-weight-loss-tea/
 	<div class="col-md-6">
 		<img src="/img/puerh-tea.jpg" />
 	</div>
-	<div class="col-md-6">
-		<h3>7</h3>
-		<h2>Pu-erh tea</h2>
+	<div class="col-md-6">		
+		<h2>7. Pu-erh tea</h2>
 		Pu-erh is a black tea that comes from the Yunnan province of China; it's aged and fermented and can be purchased either pressed into cakes or as loose leaves. 
 		<A href="https://www.ncbi.nlm.nih.gov/pubmed/24399768" target="_blank">One study </a>with overweight men suggested that drinking a daily cup of pu-erh tea can lead to a small weight loss.
 	</div>
 </div>
+<hr />
 
 <p>Source: <a href="https://www.prevention.com/weight-loss/g29553192/weight-loss-tea/" target="_blank">Prevention.com</a></p>
+<div class="card">
+	<div class="card-body">
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+	</div>	
+</div>	

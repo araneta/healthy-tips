@@ -18,13 +18,13 @@ unsafe = true
   posts = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+#[[menu.sidebar]]
+#  name = "Link 1"
+#  url = "https://example.com"
 
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+#[[menu.sidebar]]
+#  name = "Link 2"
+#  url = "https://example.org"
 
 #[[menu.navbar]]
 #  name = "Link 1"
