@@ -6,21 +6,19 @@
 @import 'main';
 
 .nav-link{
-	color:#fefefe;
+	color:#333;
 }
 .blog-masthead{
 	margin-bottom:0;
+	background: #fff;
 }
 .blog-header {
 	padding-top: 1.20rem;
-	/*background-image:url('/img/top-bg.jpg');
-	background-repeat:no-repeat;*/
-}
-.blog-title a,.blog-title a:hover{
 	
 }
+
 .lead.blog-description{
-	
+	color:#222;
 }
 
 .blog-post-title {
