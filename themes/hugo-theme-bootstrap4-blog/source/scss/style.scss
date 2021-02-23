@@ -8,6 +8,10 @@
 .nav-link{
 	color:#333;
 }
+.nav-link.active{
+	color:#333;
+	text-decoration:underline;
+}
 .blog-masthead{
 	margin-bottom:0;
 	background: #fff;
