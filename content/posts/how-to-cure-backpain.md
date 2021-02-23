@@ -15,7 +15,7 @@ This kind of pain is rarely caused by something serious. But it might keep comin
 Lower back pain is a common condition that can be relieved or prevented with regular exercise and stretching.</p>
 <p>You can cure your back pain in these 3 steps:</p>
 <h2>1. Drink A Lot of Water </h2>
-<p><a href="https://www.brainspinesurgery.com/dehydration-causing-back-pain/" target="_blank">Dehydration can cause back</a> pain when the gelatinous material inside 
+<p><a href="https://www.brainspinesurgery.com/dehydration-causing-back-pain/" target="_blank">Dehydration can cause back pain</a> when the gelatinous material inside 
 your discs lose water and are unable to hold the weight of your body, 
 this causes the disc to collapse which can put pressure on the sensitive nerves exiting the spinal column. </p>
 <h2>2. Eat Foods Rich In Calcium</h2>
