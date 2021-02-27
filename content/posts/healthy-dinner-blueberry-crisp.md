@@ -37,3 +37,8 @@ Blueberry-supplemented diet can prevent obesity-induced insulin resistance by im
 <li>Serve and enjoy!</li>
 </ol>
 <p>Source:<a href="https://tasty.co/recipe/healthy-blueberry-crisp" target="_blank">tasty.co</a></p>
+<div class="card">
+	<div class="card-body">
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+	</div>	
+</div>	
