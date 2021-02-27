@@ -16,6 +16,7 @@ url: /healthy-dinner-blueberry-crisp
 <p>2 tablespoons coconut oil, melted</p>
 <p>¼ cup maple syrup (55 g)</p>
 
+
 <p><strong>GARNISH</strong></p>
 <p>¼ cup greek yogurt (70 g)</p>
 <p>2 tablespoons maple syrup</p>
