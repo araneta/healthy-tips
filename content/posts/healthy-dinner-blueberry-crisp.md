@@ -10,7 +10,9 @@ According <a href="https://academic.oup.com/ajcn/article/109/6/1535/5499342?sear
 Blueberry-supplemented diet can prevent obesity-induced insulin resistance by improving insulin sensitivity and protecting pancreatic β-cells. Blueberry supplementation has the potential to protect and improve health conditions for both type 1 and type 2 diabetes patients.
 </p>
 <p>We will show you this easy recipe for your dinner using fresh blueberries</p>
-<video class="vjs-tech" id="vjs_video_3_html5_api" tabindex="-1" playsinline="playsinline" autoplay="" src="https://vid.tasty.co/output/26358/mp4_640x640/1489423068"></video>
+<video class="" tabindex="-1" playsinline="playsinline" autoplay="" src="https://vid.tasty.co/output/26358/mp4_640x640/1489423068">
+	<source src="https://vid.tasty.co/output/26358/mp4_640x640/1489423068" type="video/mp4">
+</video>
 <p><strong>Ingredients</strong></p>
 <p>3 cups blueberry (300 g)</p>
 
@@ -39,6 +41,6 @@ Blueberry-supplemented diet can prevent obesity-induced insulin resistance by im
 <p>Source:<a href="https://tasty.co/recipe/healthy-blueberry-crisp" target="_blank">tasty.co</a></p>
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="https://81854z39yc05fx46grtjwbay3t.hop.clickbank.net/">Amazing Results From Japanese Tonic</a></p>
 	</div>	
 </div>	
