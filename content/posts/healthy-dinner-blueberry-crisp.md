@@ -6,19 +6,19 @@ url: /healthy-dinner-blueberry-crisp
 ---
 <video class="vjs-tech" id="vjs_video_3_html5_api" tabindex="-1" playsinline="playsinline" autoplay="" src="https://vid.tasty.co/output/26358/mp4_640x640/1489423068"></video>
 <p><strong>Ingredients</strong></p>
-3 cups blueberry (300 g)
+<p>3 cups blueberry (300 g)</p>
 
-CRISP TOPPING
-1 cup rolled oats (80 g)
-½ cup almonds (70 g), chopped or slivered
-¼ cup whole wheat flour (28 g)
-½ teaspoon cinnamon
-2 tablespoons coconut oil, melted
-¼ cup maple syrup (55 g)
+<p><strong>CRISP TOPPING</strong></p>
+<p>1 cup rolled oats (80 g)</p>
+<p>½ cup almonds (70 g), chopped or slivered</p>
+<p>¼ cup whole wheat flour (28 g)</p>
+<p>½ teaspoon cinnamon</p>
+<p>2 tablespoons coconut oil, melted</p>
+<p>¼ cup maple syrup (55 g)</p>
 
-GARNISH
-¼ cup greek yogurt (70 g)
-2 tablespoons maple syrup
+<p><strong>GARNISH</strong></p>
+<p>¼ cup greek yogurt (70 g)</p>
+<p>2 tablespoons maple syrup</p>
 
 <p><strong>Preparation</strong></p>
 <ol>

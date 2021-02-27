@@ -41,3 +41,9 @@
 	margin:0 auto;
 	text-align:center;
 }
+
+@media (min-width: 40em){
+	.blog-title {
+		font-size: 2rem;
+	}
+}
