@@ -6,8 +6,10 @@ url: /healthy-dinner-blueberry-crisp
 ---
 <p>Blueberry is rich in <a href="https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-019-0363-6" target="_blank">bioactive substances and possesses powerful antioxidant potential</a>, 
 which can protect against oxidant-induced and inflammatory cell damage and cytotoxicity. 
-According <a href="https://academic.oup.com/ajcn/article/109/6/1535/5499342?searchresult=1" target="_blank">this research</a>, blueberry also good for person with cardiovascular disease (CVD) and  type 2 diabetes</p>
-
+According <a href="https://academic.oup.com/ajcn/article/109/6/1535/5499342?searchresult=1" target="_blank">this research</a>, blueberry also good for person with cardiovascular disease (CVD) and  type 2 diabetes. 
+Blueberry-supplemented diet can prevent obesity-induced insulin resistance by improving insulin sensitivity and protecting pancreatic β-cells. Blueberry supplementation has the potential to protect and improve health conditions for both type 1 and type 2 diabetes patients.
+</p>
+<p>We will show you this easy recipe for your dinner using fresh blueberries</p>
 <video class="vjs-tech" id="vjs_video_3_html5_api" tabindex="-1" playsinline="playsinline" autoplay="" src="https://vid.tasty.co/output/26358/mp4_640x640/1489423068"></video>
 <p><strong>Ingredients</strong></p>
 <p>3 cups blueberry (300 g)</p>
