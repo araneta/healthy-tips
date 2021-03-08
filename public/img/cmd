@@ -1,2 +1,2 @@
 
-cwebp -q 50 images/flower1.jpg -o images/flower1.webp
+cwebp -q 50 ginger-tea.jpg -o ginger-tea.webp
