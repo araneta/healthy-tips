@@ -37,6 +37,20 @@
 	padding-bottom:30px;
 	text-align:center;
 }
+.card-body{
+	height: 300px;
+    position: relative;
+    background-image:url('/img/click-here3.gif');
+    background-repeat:no-repeat;
+    background-position:center top;
+    p{
+		    position: absolute;
+		bottom: 0;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+    }
+}
 .card-body a{
 	margin:0 auto;
 	text-align:center;
