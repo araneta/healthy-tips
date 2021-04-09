@@ -2,6 +2,7 @@
 title: "Easy Belly Fat Free Exercises"
 date: 2021-03-25T12:32:48+07:00
 draft: false
+url: /3-best-exercises-for-burning-belly-fat-fast
 ---
 
 <img src="/img/easy-belly-fat-free-exercises.webp" alt="Easy Belly Fat Free Exercises" />
