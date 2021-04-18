@@ -14,7 +14,8 @@
     <div class="container">
         <section id="bgdiv"></section>
         <section class="login-clean" style="background: white;margin: 50px auto;padding: 30px 0;">
-            <form method="post" style="background: transparent;margin: 0 auto;width: auto;padding: 0;" action="https://static.mailerlite.com/webforms/submit/w0u0p6"><h2 class="heading">Get A Free eBook<br />
+            <form method="post" style="background: transparent;margin: 0 auto;width: auto;padding: 0;"  data-code="w0u0p6" method="post" target="_blank"
+             action="https://static.mailerlite.com/webforms/submit/w0u0p6"><h2 class="heading">Get A Free eBook<br />
 Easy KETO Recipes
 </h2>
 <script>
@@ -25,8 +26,21 @@ Easy KETO Recipes
                 <div class="illustration"><img style="background: url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;);width: auto;height: 389px;" src="assets/img/605f36613cf35_deliciously-keto-recipes-300px.png">
                     <p id="p1" style="margin: 20px 0 0;">Learn how to cook deliciously KETO recipes<br></p>
                 </div>
-                <div class="form-group" name="fields[email]"><input class="form-control" type="email" name="email" placeholder="Email"><input class="form-control" type="hidden" name="anticsrf" value="true"></div>
-                <div class="form-group"><button class="btn btn-primary btn-block" type="submit">SEND ME THE EBOOK NOW!</button></div>
+                 <div class="ml-form-formContent">
+            <div class="ml-form-fieldRow ml-last-item">
+              <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                <input aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
+              </div>
+            </div>
+          </div>
+          
+          <input type="hidden" name="ml-submit" value="1">
+            <div class="ml-form-embedSubmit">
+            <button type="submit" class="primary">SEND ME THE EBOOK NOW!</button>
+            <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"></div> <span class="sr-only">Loading...</span> </button>
+          </div>
+          <input type="hidden" name="anticsrf" value="true">     
+                
             </form>
             <p id="p2">100% free. You can unsubscribe with one click<br></p>
         </section>
