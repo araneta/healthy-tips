@@ -15,7 +15,7 @@ antioxidant capacity, enhance immune function, but also has a potential of reduc
 you can try at your home for your everyday drinking.</p>
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	
 <p><strong>Ingredients</strong></p>
@@ -31,6 +31,6 @@ you can try at your home for your everyday drinking.</p>
 
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	

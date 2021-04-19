@@ -24,6 +24,6 @@ url: /avocado-tomato-salad
 <p>Source:<a href="https://tasty.co/recipe/avocado-and-tomato-salad" target="_blank">tasty.co</a></p>
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	

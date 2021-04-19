@@ -70,7 +70,7 @@ url: /teas/best-weight-loss-tea/
 <hr />
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	
 <hr />
@@ -112,6 +112,6 @@ url: /teas/best-weight-loss-tea/
 <p>Source: <a href="https://www.prevention.com/weight-loss/g29553192/weight-loss-tea/" target="_blank">Prevention.com</a></p>
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	

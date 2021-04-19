@@ -30,6 +30,6 @@ Make sure you look for your next issue soon. We will be talking about the health
 
 <div class="card">
 	<div class="card-body">
-		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/">Watch this FREE Video on How to Lose Weight</a></p>
+		<p class="text-center"><a class="btn btn-success " href="http://araneta7.1keto.hop.clickbank.net/?pid=sku3">Watch this FREE Video on How to Lose Weight</a></p>
 	</div>	
 </div>	
