@@ -26,9 +26,9 @@ unsafe = true
 #  name = "Link 2"
 #  url = "https://example.org"
 
-#[[menu.navbar]]
-#  name = "Link 1"
-#  url = "https://example.org"
+[[menu.navbar]]
+ name = "Easy Keto Recipes Books"
+ url = "/free/easy-keto-recipes"
 
 
 # Theme variables

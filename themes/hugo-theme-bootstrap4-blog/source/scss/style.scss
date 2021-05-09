@@ -7,6 +7,9 @@
 
 .nav-link{
 	color:#333;
+	&:hover{
+		color:#000;
+	}
 }
 .nav-link.active{
 	color:#333;
