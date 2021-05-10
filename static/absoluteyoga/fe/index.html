@@ -281,10 +281,46 @@
                     <div class="para-eight-buy">
                         <h3>For Only</h3>
                         <h4><span style="text-decoration: line-through">$47.00</span></h4>
-                        <h2>$17.00<br><br></h2>
+                        <h2>$7.99<br><br></h2>
                     </div>
                     <div class="top-p">
-                        <a href="[BUYBUTTON]" class="btn btn-warning btn-lg btn-block btn-huge center-block" role="button">GET INSTANT ACCESS NOW</a>
+                        
+                        <div id="smart-button-container">
+      <div style="text-align: center;">
+        <div id="paypal-button-container"></div>
+      </div>
+    </div>
+  <script src="https://www.paypal.com/sdk/js?client-id=Aegq_48MH9V94H9w1zi9ehQZvq-_yjFMUFFhFK_BC9wGWzXpuMQPRf3gXptbpoisCL5W_liS4cpRH-m9&currency=USD" data-sdk-integration-source="button-factory"></script>
+  <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Absolute Yoga\nMastering The Healing Art for Health and Tranquility\n","amount":{"currency_code":"USD","value":7.99}}]
+          });
+        },
+
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+            alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+        },
+
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
                     </div><br><br>
                     <div class="para-eight-btm">
                         <p>The reason behind this discount is because I want to help as many people like you to experience Life Transformation. If you have read this page until this far, you are…<br><br></p>

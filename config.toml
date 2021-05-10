@@ -30,6 +30,15 @@ unsafe = true
  name = "Easy Keto Recipes Books"
  url = "/free/easy-keto-recipes"
 
+[[menu.navbar]] 
+ name = "The Natural Way to Cure The Back Pain"
+ url = "/backpain/index.html"
+ 
+[[menu.navbar]]
+ name = "Absolute Yoga"
+ url = "/absoluteyoga/FE/index.html"
+ 
+
 
 # Theme variables
 #
