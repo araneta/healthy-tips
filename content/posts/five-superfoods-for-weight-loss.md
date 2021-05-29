@@ -1,7 +1,7 @@
 ---
 title: "Five Superfoods for Weight Loss"
 date: 2021-04-19T06:42:58+07:00
-draft: true
+draft: false
 ---
 
 
@@ -9,7 +9,7 @@ draft: true
 
 Besides promoting overall health, many superfoods contain specific compounds, antioxidants, and micronutrients that may enhance weight loss.
 
-Here are 20 of the best superfoods for weight loss, all backed by science.
+Here are 5 of the best superfoods for weight loss, all backed by science.
 
 
 <h2>1. Kale</h2>
