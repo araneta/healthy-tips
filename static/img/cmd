@@ -5,3 +5,4 @@ cwebp -q 50 keto-diet.png -o keto-diet.webp
 cwebp -q 50 ./breakfast-drink-eliminates-constipation.png breakfast-drink-eliminates-constipation.webp
  cwebp -q 50 ./breakfast-drink-eliminates-constipation.png -o breakfast-drink-eliminates-constipation.webp
  cwebp -q 50 ./hair-regrow.jpg -o hair-regrow.webp
+ cwebp -q 50 ./exercise.jpg -o exercise.webp
